@@ -1,0 +1,35 @@
+text,label
+"I love this product",positive
+"This is excellent and useful",positive
+"I am very happy with the result",positive
+"Great work, it runs perfectly",positive
+"Wonderful experience so far",positive
+"The quality is amazing",positive
+"I really enjoyed using this",positive
+"This solved my problem",positive
+"Very helpful and easy to use",positive
+"I am satisfied with the service",positive
+"That was a fantastic experience",positive
+"The app works really well",positive
+"I hate this product",negative
+"This is terrible and useless",negative
+"I am very unhappy with the result",negative
+"Poor work, it fails every time",negative
+"Awful experience so far",negative
+"The quality is horrible",negative
+"I regret using this",negative
+"This did not solve my problem",negative
+"Very confusing and difficult to use",negative
+"I am disappointed with the service",negative
+"That was a frustrating experience",negative
+"The app crashes constantly",negative
+"The product is okay",neutral
+"It works as expected",neutral
+"The result is neither good nor bad",neutral
+"I have no strong opinion about this",neutral
+"The service was average",neutral
+"It is a standard product",neutral
+"The update happened today",neutral
+"I received the package",neutral
+"The page contains three sections",neutral
+"The meeting is scheduled for Monday",neutral
